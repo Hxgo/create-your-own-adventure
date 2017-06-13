@@ -1,2 +1,2 @@
 Ese pony rosa, que podía hablar, comunicó a los asistentes que el fin andaba cerca.
-Dijo que las batallas serán brutales, en las cuales pocos sobrevivirán, quedando así solo dos salidas: la [escalera eterna] (https://github.com/Hxgo/create-your-own-adventure/blob/my-history/espanol/escalera%20eterna.md) o [la puerta trasera] (https://github.com/Hxgo/create-your-own-adventure/blob/my-history/espanol/huida/puerta.md)
+
